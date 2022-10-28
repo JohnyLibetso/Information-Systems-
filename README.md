@@ -1,4 +1,4 @@
-# Information-Systems-Tefonyane Libetso
+# C code for Reversible prime Square-Tefonyane Libetso
 
 This a main function of the program that
 check and print the first Reversible prime
